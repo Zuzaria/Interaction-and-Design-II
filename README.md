@@ -24,4 +24,4 @@ Here's a link for something ----> [the something](https://mail.yahoo.com/)
 
 
 ## This is an image
-![you will love this cat :3](https://preview.redd.it/she-was-stuck-like-this-for-2-minutes-v0-507s6g2mtckf1.jpeg?auto=webp&s=00bf15bb2f91e13d14a07adeadb2840e5b22bfc0)
+![you will love this cat :3](https://new-s3.shelterluv.com/profile-pictures/71d916be93893bb85990e20fb8e27130/c59ff44430e3637eed7d644c7d0130e8.jpg)
