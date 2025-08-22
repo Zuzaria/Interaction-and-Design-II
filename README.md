@@ -25,3 +25,9 @@ Here's a link for something ----> [the something](https://mail.yahoo.com/)
 
 ## This is an image
 ![you will love this cat :3](https://new-s3.shelterluv.com/profile-pictures/71d916be93893bb85990e20fb8e27130/c59ff44430e3637eed7d644c7d0130e8.jpg)
+
+
+### Journal Entries
+
++ [Link to all the journals.](journal)
++ [Link to first journal entry.](journal/2025.8.26)
